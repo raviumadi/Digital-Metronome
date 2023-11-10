@@ -14,7 +14,7 @@ Metronomes come in all shapes and forms. The mechanical ones have a great aesthe
 
 ## Example
 
-![MetroDisp](/Users/ravi/Documents/projects/Metronome/media/MetroDisp.jpeg)
+![MetroDisp](/media/MetroDisp.jpeg)
 
 Check out the video in the `media` folder.
 
